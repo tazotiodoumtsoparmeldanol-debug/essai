@@ -10,6 +10,19 @@ h1{
     background-size: cover;
   
   }
-
-
-  
+.header
+{
+    background-color: rgb(151, 151, 155);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.div1
+  {
+    padding: 20px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0, 0.1);
+  }

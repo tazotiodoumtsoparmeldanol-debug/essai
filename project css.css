@@ -3,3 +3,10 @@ body
     background-image: url(\tazlogo.png);
     background-size: cover;
 }
+.header
+{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
